@@ -1,0 +1,27 @@
+[
+    {
+      "name": "Rosa",
+      "description": "La rosa es una planta con flores muy conocida por su belleza y fragancia.",
+      "wateringInterval": "Cada 2 días",
+      "image": "https://biblioteca.acropolis.org/wp-content/uploads/2019/07/Rosa-Mister_Lincoln.jpg"
+    },
+    {
+      "name": "Lavanda",
+      "description": "La lavanda es una planta aromática que se utiliza en perfumes y productos de cuidado personal.",
+      "wateringInterval": "Cada semana",
+      "image": "https://shop.tiendasmadretierra.mx/cdn/shop/products/1-918HS-mKyzL._AC_SL1500.jpg?v=1654125721&width=1445"
+    },
+    {
+      "name": "Cactus de Navidad",
+      "description": "El cactus de Navidad es una planta suculenta que florece durante la temporada navideña.",
+      "wateringInterval": "Cada 10 días",
+      "image": "https://media.admagazine.com/photos/61a86d748aa76c7918dce0c1/master/w_1600%2Cc_limit/Cactus%2520de%2520navidad%2520crecido.jpg"
+    },
+    {
+      "name": "Menta",
+      "description": "La menta es una hierba aromática utilizada en cocina, infusiones y productos medicinales.",
+      "wateringInterval": "Cada 3 días",
+      "image": "https://media.admagazine.com/photos/618a61cc51ab72df0a764124/4:3/w_2688,h_2016,c_limit/83664.jpg"
+    }
+ ]
+
